@@ -20,7 +20,7 @@ RunLog Diary is a simple and interactive web application built with **React + Ty
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/runlog-app.git
+git clone https://github.com/username/runlog-app.git
 cd runlog-app
 
 # 2. Install dependencies
